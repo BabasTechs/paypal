@@ -5,3 +5,4 @@ This is the way you do it
   git pull --> It brings changes in the code to the Working area
   git clone --> It brings the entire code to the working area
 this app is good
+ welcom sir
